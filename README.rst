@@ -18,7 +18,7 @@ Quickstart
 - See "Deploying" section below for instruction on how to get your change
   checked in and pushed to the live website.
 
-Overview
+Introduction
 --------
 `IronRuby.net <http://ironruby.net>`_ and `IronPython.net <http://ironpython.net>`_
 share the same infrastructure; basically the same CSS, HTML templates, images,
